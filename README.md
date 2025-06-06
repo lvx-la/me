@@ -54,24 +54,24 @@ SONYの[窓](https://musvi.jp/madolp/)のように2つのサイネージで双�
 
 # 実績一例
 A. スマートオフィス化プロジェクト
-[プレスリリース](https://www.toda.co.jp/news/2025/20250319_003479.html)
-[紹介動画 YouTube](https://www.youtube.com/watch?v=2_m58Xct3tA)
+- [プレスリリース](https://www.toda.co.jp/news/2025/20250319_003479.html)
+- [紹介動画 YouTube](https://www.youtube.com/watch?v=2_m58Xct3tA)
+- [パンフ](https://github.com/lvx-la/me/blob/main/resources/パンフ_V6.pdf)
 
 特許（公開のみ/審査中）
 - 特開2024-099242（座席提案システム）
 - 特開2024-100411（空調制御システム）
 
-
 [B. 顔認証導入PJ 他社プレスリリース](https://wisdom.nec.com/ja/feature/biometrics/2025032701/index.html)
 
 # 保有技術系資格一覧
 AWS
-- DevOps Engineer - Professional（2025年度）
-- Solutions Architect - Associate（2024年度）
+- [DevOps Engineer - Professional（2025年度）](https://github.com/lvx-la/me/blob/main/resources/AWS_DOPC02.pdf)
+- [Solutions Architect - Associate（2024年度）](https://github.com/lvx-la/me/blob/main/resources/AWS_SAAC03.pdf)
 
 # その他
-自己紹介
-exaBaseDXアセスメントの結果
+[自己紹介](https://github.com/lvx-la/me/blob/main/resources/202506_abouthamada.pdf)
+[exaBaseDXアセスメントの結果](https://github.com/lvx-la/me/blob/main/resources/DIAresult.pdf)
 
 DXアセスメントとは
 経済産業省と情報処理推進機構が策定した「デジタルスキル標準」を構成する
